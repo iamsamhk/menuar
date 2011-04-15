@@ -93,6 +93,8 @@ border-bottom-right-radius: 7px; background-image:url("../images/form_bg.png"); 
 .mu-btn-m.mu-btn-mid-size { background-position: -10px -35px; padding: 0 15px;}
 .mu-btn-r.mu-btn-mid-size { background-position: -140px -35px;}
 
+.mu-submit-btn-wrapper { clear: both; display: block; float: right; cursor: pointer; }
+
 /** Page Layout **/
 #mu-page-wrapper { width: 960px; margin: 0 auto; position: relative;}
 

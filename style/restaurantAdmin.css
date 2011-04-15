@@ -102,7 +102,4 @@
 #mu-res-admin-stage-container { width: 860px; height: 600px; position: relative; overflow: hidden;}
 #mu-res-admin-stage-container #mu-res-admin-stage-items { width: 3440px; position: absolute; clear: both;}
 #mu-res-admin-stage-container #mu-res-admin-stage-items .mu-res-admin-stages { width: 860px !important; float: left;}
-
-.mu-submit-btn-wrapper { clear: both; display: block; float: right; cursor: pointer; }
-
 #s1-resPhoto-upload img { width: 150px;}
